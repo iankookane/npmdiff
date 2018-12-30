@@ -1,0 +1,22 @@
+{
+  "name": "npmdiff",
+  "version": "0.0.1",
+  "description": "Check what is updating",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iankookane/npmdiff.git"
+  },
+  "author": "Ian Kane",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iankookane/npmdiff/issues"
+  },
+  "homepage": "https://github.com/iankookane/npmdiff#readme",
+  "bin": {
+    "npmdiff": "./cli.js"
+  }
+}
